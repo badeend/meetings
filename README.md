@@ -1,27 +1,141 @@
 # WebAssembly meetings
 
-Information on official in-person WebAssembly meetings hosted by the W3C
-[Community Group](https://w3.org/community/webassembly/). Each meeting will have its own
+This repository hosts information on official WebAssembly meetings hosted by the W3C
+[Community Group](https://w3.org/community/webassembly/) (the "CG") and
+[Working Group](https://www.w3.org/groups/wg/wasm/) (the "WG").
+Each meeting will have its own
 agenda published before the meeting, and minutes will be posted in the
 invitation document after the meeting, including topics discussions and
 decisions.
+
+In addition to the CG and WG, there are also several [subgroups](process/subgroups.md) of the CG, which are smaller groups
+focused on a particular topic. They have their own repositories and meetings;
+see the subgroups page for links, and contact the subgroup chair if you want to
+be added to those meeting invitations.
 
 If you're unfamiliar with standards meetings,
 [Allen's paper on standards committee participation for newbees](http://wirfs-brock.com/allen/files/papers/standpats-asianplop2016.pdf)
 may be helpful.
 
-## Process
+## How meetings work
 
-Meeting process is documented:
+These documents explain how online and in-person meetings are conducted:
 
-* [Attendance](process/attendance.md)
-* [Day-of](process/day-of.md)
+* [Virtual Meetings](process/vc-meetings.md)
+* [In-person Meetings](process/inperson-meetings.md)
 * [Consensus](process/consensus.md)
-* [Hosting](process/hosting.md)
 
-## Meetings
+## How proposals work
+
+These documents explain the process for proposing new features to be added to
+WebAssembly, from idea to standardization:
+
+* [An overview of the proposal process](process/proposal.md)
+* [The process specifics](process/phases.md)
+* [Championing a proposal](process/champion.md)
+
+## How the community works
+
+These documents explain how the community works overall:
+
+* [Important Github repositories](process/github.md)
+* [Discussing constructively](process/discussion.md)
+* [Code of Conduct](CODE_OF_CONDUCT.md) for all meetings and WebAssembly activities
+
+## CG and WG meeting agendas and notes
 
 <details open>
+<summary>2025</summary>
+
+   * [CG January 14th video call](main/2025/CG-01-14.md)
+   * [CG January 28th video call](main/2025/CG-01-28.md)
+   * [CG February 12th-13th in-person hybrid](main/2025/CG-02.md)
+   * [CG February 25th video call](main/2025/CG-02-25.md)
+   * [CG March 11th video call](main/2025/CG-03-11.md)
+   * [CG March 25th video call](main/2025/CG-03-25.md)
+   * [CG April 8th video call](main/2025/CG-04-08.md)
+   * [CG April 22nd video call](main/2025/CG-04-22.md)
+   * [CG May 6th video call](main/2025/CG-05-06.md)
+   * [CG May 20th video call](main/2025/CG-05-20.md)
+   * [CG June 3rd video call](main/2025/CG-06-03.md)
+   * [CG June 17th video call](main/2025/CG-06-17.md)
+   * [CG July 1st video call](main/2025/CG-07-01.md)
+   * [CG July 15th video call](main/2025/CG-07-15.md)
+   * [CG July 29th video call](main/2025/CG-07-29.md)
+   * [CG August 12th video call](main/2025/CG-08-12.md)
+   * [CG August 26th video call](main/2025/CG-08-26.md)
+   * [CG September 9th video call](main/2025/CG-09-09.md)
+   * [CG September 23rd video call](main/2025/CG-09-23.md)
+   * [CG October 7th video call](main/2025/CG-10-07.md)
+   * [CG October 21nd video call](main/2025/CG-10-21.md)
+   * [CG November 4th video call](main/2025/CG-11-04.md)
+   * [CG November 18th video call](main/2025/CG-11-18.md)
+   * [CG December 2nd video call](main/2025/CG-12-02.md)
+   * [CG December 16th video call](main/2025/CG-12-16.md)
+</details>
+
+<details>
+<summary>2024</summary>
+
+   * [CG January 2nd video call](main/2024/CG-01-02.md)
+   * [CG January 16th video call](main/2024/CG-01-16.md)
+   * [CG January 30th video call](main/2024/CG-01-30.md)
+   * [CG February 13th video call](main/2024/CG-02-13.md)
+   * [CG February 27th video call](main/2024/CG-02-27.md)
+   * [CG April 9th video call](main/2024/CG-04-09.md)
+   * [CG April 23rd video call](main/2024/CG-04-23.md)
+   * [CG May 7th video call](main/2024/CG-05-07.md)
+   * [CG May 21st video call](main/2024/CG-05-21.md)
+   * [CG June 5th-6th in-person hybrid](main/2024/CG-06.md)
+   * [CG June 18th video call](main/2024/CG-06-18.md)
+   * [CG July 2nd video call](main/2024/CG-07-02.md)
+   * [CG July 16th video call](main/2024/CG-07-16.md)
+   * [CG July 30th video call](main/2024/CG-07-30.md)
+   * [CG August 13th video call](main/2024/CG-08-13.md)
+   * [CG August 27th video call](main/2024/CG-08-27.md)
+   * [CG September 10th video call](main/2024/CG-09-10.md)
+   * [CG September 24th video call](main/2024/CG-09-24.md)
+   * [CG October 8th video call](main/2024/CG-10-08.md)
+   * [CG October 22nd video call](main/2024/CG-10-22.md)
+   * [CG November 5th video call](main/2024/CG-11-05.md)
+   * [CG November 19th video call](main/2024/CG-11-19.md)
+   * [CG December 3rd video call](main/2024/CG-12-03.md)
+   * [CG December 17th video call](main/2024/CG-12-17.md)
+
+</details>
+
+<details>
+<summary>2023</summary>
+
+   * [CG January 3rd video call](main/2023/CG-01-03.md)
+   * [CG January 17th video call](main/2023/CG-01-17.md)
+   * [CG January 31th video call](main/2023/CG-01-31.md)
+   * [CG February 14th video call](main/2023/CG-02-14.md)
+   * [CG February 28th video call](main/2023/CG-02-28.md)
+   * [CG March 14th video call](main/2023/CG-03-14.md)
+   * [CG March 28th video call](main/2023/CG-03-28.md)
+   * [CG April 11th video call](main/2023/CG-04-11.md)
+   * [CG April 25th video call](main/2023/CG-04-25.md)
+   * [CG May 9th video call](main/2023/CG-05-09.md)
+   * [CG May 23rd video call](main/2023/CG-05-23.md)
+   * [CG June 6th video call](main/2023/CG-06-06.md)
+   * [CG June 20th video call](main/2023/CG-06-20.md)
+   * [CG July 18th video call](main/2023/CG-07-18.md)
+   * [CG August 1st video call](main/2023/CG-08-01.md)
+   * [CG August 15th video call](main/2023/CG-08-15.md)
+   * [CG August 29th video call](main/2023/CG-08-29.md)
+   * [CG September 12th video call](main/2023/CG-09-12.md)
+   * [CG September 26th video call](main/2023/CG-09-26.md)
+   * [CG October 11th-12th in-person hybrid](main/2023/CG-10.md)
+   * [CG November 7th video call](main/2023/CG-11-07.md)
+   * [CG November 21st video call](main/2023/CG-11-21.md)
+   * [CG December 5th video call](main/2023/CG-12-05.md)
+   * [CG December 19th video call](main/2023/CG-12-19.md)
+
+
+</details>
+
+<details>
 <summary>2022</summary>
 
    * [CG January 4th video call](main/2022/CG-01-04.md)
@@ -29,12 +143,30 @@ Meeting process is documented:
    * [CG February 1st video call](main/2022/CG-02-01.md)
    * [CG February 15th video call](main/2022/CG-02-15.md)
    * [CG March 1st video call](main/2022/CG-03-01.md)
-   * [CG March 15th video call](main/2021/CG-03-15.md)
+   * [CG March 15th video call](main/2022/CG-03-15.md)
    * [CG March 29th video call](main/2022/CG-03-29.md)
+   * [CG April 12th video call](main/2022/CG-04-12.md)
+   * [CG April 26th video call](main/2022/CG-04-26.md)
+   * [CG May 10th video call](main/2022/CG-05-10.md)
+   * [CG May 24th video call](main/2022/CG-05-24.md)
+   * [CG June 7th video call](main/2022/CG-06-07.md)
+   * [CG June 21st video call](main/2022/CG-06-21.md)
+   * [CG July 5th video call](main/2022/CG-07-05.md)
+   * [CG July 19th video call](main/2022/CG-07-19.md)
+   * [CG August 2nd video call](main/2022/CG-08-02.md)
+   * [CG August 16th video call](main/2022/CG-08-16.md)
+   * [CG August 30th video call](main/2022/CG-08-30.md)
+   * [CG September 13th video call](main/2022/CG-09-13.md)
+   * [CG September 27th video call](main/2022/CG-09-27.md)
+   * [CG October 11th video call](main/2022/CG-10-11.md)
+   * [CG October in-person/hybrid](main/2022/CG-10.md)
+   * [CG November 22nd video call](main/2022/CG-11-22.md)
+   * [CG December 6th video call](main/2022/CG-12-06.md)
+   * [CG December 20th video call](main/2022/CG-12-20.md)
 
 </details>
 
-<details open>
+<details>
 <summary>2021</summary>
 
    * [CG January 5th video call](main/2021/CG-01-05.md)
@@ -71,7 +203,7 @@ Meeting process is documented:
 
 </details>
 
-<details open>
+<details>
 <summary>2020</summary>
 
    * [CG January 7th video call](main/2020/CG-01-07.md)
@@ -104,7 +236,7 @@ Meeting process is documented:
 
 <details>
 <summary>2019</summary>
-  
+
    * [CG January 8th video call](main/2019/CG-01-08.md)
    * [WG January 16th video call](main/2019/WG-01-16.md)
    * [CG January 22nd video call](main/2019/CG-01-22.md)

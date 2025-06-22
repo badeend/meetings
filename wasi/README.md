@@ -3,20 +3,137 @@
 Meetings of the WASI Subgroup of the W3C WebAssembly Community Group (CG) follow
 [the process of the CG](https://github.com/WebAssembly/meetings).
 
+If this is your first time attending, please [fill out the registration form](https://docs.google.com/forms/d/e/1FAIpQLSdpO6Lp2L_dZ2_oiDgzjKx7pb7s2YYHjeSIyfHWZZGSKoZKWQ/viewform) to receive an invite.
+
 ## Meetings
 
 <details open>
+
+<summary>2025</summary>
+
+  * [WASI January 9th video call](2025/WASI-01-09.md)
+  * [WASI January 23rd video call](2025/WASI-01-25.md)
+  * [WASI February 6th video call](2025/WASI-02-06.md)
+  * [WASI February 20th video call](2025/WASI-02-20.md)
+  * [WASI March 6th video call](2025/WASI-03-06.md)
+  * [WASI March 20th video call](2025/WASI-03-20.md)
+  * [WASI April 3rd video call](2025/WASI-04-03.md)
+  * [WASI April 17th video call](2025/WASI-04-17.md)
+  * [WASI May 1st video call](2025/WASI-05-01.md)
+  * [WASI May 15th video call](2025/WASI-05-15.md)
+  * [WASI May 29th video call](2025/WASI-05-29.md)
+  * [WASI June 12th video call](2025/WASI-06-12.md)
+  * [WASI June 26th video call](2025/WASI-06-26.md)
+  * [WASI July 10th video call](2025/WASI-07-10.md)
+  * [WASI July 24th video call](2025/WASI-07-24.md)
+  * [WASI August 7th video call](2025/WASI-08-07.md)
+  * [WASI August 21st video call](2025/WASI-08-21.md)
+  * [WASI September 4th video call](2025/WASI-09-04.md)
+  * [WASI September 18th video call](2025/WASI-09-18.md)
+  * [WASI October 2nd video call](2025/WASI-10-02.md)
+  * [WASI October 16th video call](2025/WASI-10-16.md)
+  * [WASI October 30th video call](2025/WASI-10-30.md)
+  * [WASI November 13th video call](2025/WASI-11-13.md)
+  * [WASI November 27th video call](2025/WASI-11-27.md)
+  * [WASI December 11th video call](2025/WASI-12-11.md)
+
+</details>
+
+<details open>
+
+<summary>2024</summary>
+
+  * [WASI January 11th video call](2024/WASI-01-11.md)
+  * [WASI January 25th video call](2024/WASI-01-25.md)
+  * [WASI February 8th video call](2024/WASI-02-08.md)
+  * [WASI February 22 video call](2024/WASI-02-22.md)
+  * [WASI March 7th video call](2024/WASI-03-07.md)
+  * [WASI March 21st video call](2024/WASI-03-21.md)
+  * [WASI April 4th video call](2024/WASI-04-04.md)
+  * [WASI April 18th video call](2024/WASI-04-18.md)
+  * [WASI May 2nd video call](2024/WASI-05-02.md)
+  * [WASI May 16th video call](2024/WASI-05-16.md)
+  * [WASI May 30th video call](2024/WASI-05-30.md)
+  * [WASI June 13th video call](2024/WASI-06-13.md)
+  * [WASI June 27th video call](2024/WASI-06-27.md)
+  * [WASI July 11th video call](2024/WASI-07-11.md)
+  * [WASI July 25th video call](2024/WASI-07-25.md)
+  * [WASI August 8th video call](2024/WASI-08-08.md)
+  * [WASI August 22nd video call](2024/WASI-08-22.md)
+  * [WASI September 5th video call](2024/WASI-09-05.md)
+  * [WASI September 19th video call](2024/WASI-09-19.md)
+  * [WASI October 3rd video call](2024/WASI-10-03.md)
+  * [WASI October 17th video call](2024/WASI-10-17.md)
+  * [WASI October 31st video call](2024/WASI-10-31.md)
+  * [WASI November 14th video call](2024/WASI-11-14.md)
+  * [WASI November 28th video call](2024/WASI-11-28.md)
+  * [WASI December 12th video call](2024/WASI-12-12.md)
+
+</details>
+
+<details>
+
+<summary>2023</summary>
+
+  * [WASI January 12th video call](2023/WASI-01-12.md)
+  * [WASI January 26th video call](2023/WASI-01-26.md)
+  * [WASI February 9th video call](2023/WASI-02-09.md)
+  * [WASI February 23rd video call](2023/WASI-02-23.md)
+  * [WASI March 9th video call](2023/WASI-03-09.md)
+  * [WASI March 23rd video call](2023/WASI-03-23.md)
+  * [WASI April 20th video call](2023/WASI-04-20.md)
+  * [WASI May 4th video call](2023/WASI-05-04.md)
+  * WASI May 18th video call _Canceled_
+  * [WASI June 1st video call](2023/WASI-06-01.md)
+  * [WASI June 15th video call](2023/WASI-06-15.md)
+  * [WASI June 29th video call](2023/WASI-06-29.md)
+  * [WASI July 13th video call](2023/WASI-07-13.md)
+  * [WASI July 27th video call](2023/WASI-07-27.md)
+  * [WASI August 10th video call](2023/WASI-08-10.md)
+  * [WASI August 24th video call](2023/WASI-08-24.md)
+  * [WASI September 7th video call](2023/WASI-09-07.md)
+  * [WASI September 21nd video call](2023/WASI-09-21.md)
+  * [WASI October 5th video call](2023/WASI-10-05.md)
+  * [WASI October 19th video call](2023/WASI-10-19.md)
+  * [WASI November 2nd video call](2023/WASI-11-02.md)
+  * [WASI November 16th video call](2023/WASI-11-16.md)
+  * [WASI November 30th video call](2023/WASI-11-30.md)
+  * [WASI December 14th video call](2023/WASI-12-14.md)
+
+</details>
+
+<details>
 <summary>2022</summary>
 
   * [WASI January 13th video call](2022/WASI-01-13.md)
   * [WASI January 27th video call](2022/WASI-01-27.md)
   * [WASI February 10th video call](2022/WASI-02-10.md)
-  * [WASI February 24th video call](2022/WASI-02-10.md)
-  * [WASI March 10th video call](2022/WASI-03-10.md)
+  * [WASI February 24th video call](2022/WASI-02-24.md)
+  * [WASI March 10th video call](2022/WASI-03-10.md) _Canceled_
   * [WASI March 24th video call](2022/WASI-03-24.md)
+  * [WASI April 7th video call](2022/WASI-04-07.md)
+  * [WASI April 21st video call](2022/WASI-04-21.md)
+  * [WASI May 5th video call](2022/WASI-05-05.md)
+  * [WASI May 19th video call](2022/WASI-05-19.md)
+  * [WASI June 2nd video call](2022/WASI-06-02.md)
+  * [WASI June 16th video call](2022/WASI-06-16.md)
+  * [WASI June 30th video call](2022/WASI-06-30.md)
+  * [WASI July 14th video call](2022/WASI-07-14.md)
+  * [WASI July 28th video call](2022/WASI-07-28.md)
+  * [WASI August 11th video call](2022/WASI-08-11.md)
+  * [WASI August 25th video call](2022/WASI-08-25.md)
+  * [WASI September 8th video call](2022/WASI-09-08.md)
+  * [WASI September 22nd video call](2022/WASI-09-22.md)
+  * [WASI October 6th video call](2022/WASI-10-06.md)
+  * [WASI October 20th video call](2022/WASI-10-20.md)
+  * [WASI November 3rd video call](2022/WASI-11-03.md)
+  * WASI November 17th video call _Canceled_
+  * [WASI December 1st video call](2022/WASI-12-01.md)
+  * [WASI December 15th video call](2022/WASI-12-15.md)
+  
 </details>
 
-<details open>
+<details>
 <summary>2021</summary>
 
   * [WASI January 14th video call](2021/WASI-01-14.md)

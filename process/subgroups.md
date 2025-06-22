@@ -5,17 +5,22 @@ Subgroups of the CG are created when one (or both) of the following apply:
 - An area of interest that needs a lot of discussion. Creating a subgroup with regular meetings provides more bandwidth for this discussion.
 - An area of interest is only relevant to a small group of participants. In these cases, subgroup meetings give a more focused venue. This way, participants don’t have concerns about wasting the CG’s time with something that the rest of the CG is not engaged in.
 
-To create a subgroup, you should add a poll to a CG meeting agenda with at least 7 days notice. As part of the poll, you should provide information about who will be chairing the subgroup.
+To create a subgroup, you should add a poll to a CG meeting agenda with at least 7 days notice. As part of the poll, you should provide information about:
+ - The proposed scope, and deliverables of the subgroup.
+ - Chairs, or co-chairs of the subgroup.
+ - Information on how to join, and contribute to the subgroup.
 
 ## Current Subgroups
 
 | Subgroup  | Chair(s)  | Discussion Repo  | Meetings  |
 |---|---|---|---|
+| Benchmarking | Petr Penzin (@ppenzin), Saúl Cabrera (@saulecabrera)  | [Repo](https://github.com/WebAssembly/benchmarks)  | [Agendas](https://github.com/WebAssembly/meetings/tree/main/benchmarking)  |
 | Debugging  | Derek Schuff (@dschuff)  | [Repo](https://github.com/WebAssembly/debugging)  | no meetings currently scheduled, but discussion or agenda suggestions are welcome |
-| GC  | Thomas Lively (@tlively)  | [Repo](https://github.com/WebAssembly/gc)  | [Agendas](https://github.com/WebAssembly/gc/issues?q=is%3Aissue+%22Agenda+for+subgroup+meeting%22)  |
-| SIMD  | Petr Penzin (@penzn), Ng Zhi An (@ngzhian)  | [Relaxed SIMD](https://github.com/WebAssembly/relaxed-simd) + [Flexible Vectors](https://github.com/WebAssembly/flexible-vectors/issues) | [Agendas](https://github.com/WebAssembly/flexible-vectors/issues)  |
+| GC  | Thomas Lively (@tlively)  | [Repo](https://github.com/WebAssembly/gc)  | [Agendas](https://github.com/WebAssembly/meetings/tree/main/gc)  |
+| SIMD  | Petr Penzin (@ppenzin)  | [Flexible Vectors](https://github.com/WebAssembly/flexible-vectors/issues) | [Agendas](https://github.com/WebAssembly/meetings/tree/main/gc)  |
 | Stack Switching  | Francis McCabe (@fgmccabe)  | [Repo](https://github.com/WebAssembly/stack-switching)  | [Agendas](https://github.com/WebAssembly/meetings/tree/main/stack)  |
-| WASI  | Lin Clark (@linclark), Sam Clegg (@sbc100)  | [Repo](https://github.com/WebAssembly/WASI)  | [Agendas](https://github.com/WebAssembly/meetings/tree/main/wasi)  |
+| Threads | Andrew Brown (@abrown), Thomas Lively (@tlively), Conrad Watt (@conrad-watt) | [Repo](https://github.com/webassembly/shared-everything-threads/) | File issues to schedule agenda items |
+| WASI  | Bailey Hayes (@ricochet), Yosh Wuyts (@yoshuawuyts)  | [Repo](https://github.com/WebAssembly/WASI)  | [Agendas](https://github.com/WebAssembly/meetings/tree/main/wasi)  |
 
 ## Subgroup Leadership Expectations
 
